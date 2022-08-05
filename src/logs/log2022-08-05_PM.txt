@@ -1,0 +1,34 @@
+2022-08-05 12:03:34,236 - clone.py[line:70] - INFO: Request The 2 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 12:03:55,653 - clone.py[line:70] - INFO: Request The 3 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 12:04:17,068 - clone.py[line:70] - INFO: Request The 4 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 12:04:17,068 - clone.py[line:84] - INFO: Job run end!
+2022-08-05 19:21:33,207 - clone.py[line:82] - INFO: Request The 1 time: https://github.com/microsoft/monaco-editor.git now
+2022-08-05 19:21:33,209 - clone.py[line:82] - INFO: Request The 2 time: https://github.com/microsoft/monaco-editor.git now
+2022-08-05 19:21:33,210 - clone.py[line:82] - INFO: Request The 3 time: https://github.com/microsoft/monaco-editor.git now
+2022-08-05 19:21:33,211 - clone.py[line:98] - INFO: Job run end!
+2022-08-05 19:28:16,839 - clone.py[line:99] - INFO: Job run end!
+2022-08-05 19:29:26,864 - clone.py[line:100] - INFO: Job run end!
+2022-08-05 19:30:14,689 - clone.py[line:100] - INFO: Job run end!
+2022-08-05 19:35:22,321 - clone.py[line:90] - INFO: Job run end!
+2022-08-05 19:39:42,302 - clone.py[line:90] - INFO: Job run end!
+2022-08-05 19:40:17,720 - clone.py[line:90] - INFO: Job run end!
+2022-08-05 19:42:02,459 - clone.py[line:75] - INFO: Request The 1 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 19:42:23,856 - clone.py[line:75] - INFO: Request The 2 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 19:42:45,267 - clone.py[line:75] - INFO: Request The 3 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 19:42:45,268 - clone.py[line:90] - INFO: Job run end!
+2022-08-05 19:44:17,892 - clone.py[line:90] - INFO: Job run end!
+2022-08-05 19:50:41,936 - clone.py[line:91] - INFO: Job run end!
+2022-08-05 19:50:57,815 - clone.py[line:91] - INFO: Job run end!
+2022-08-05 19:51:56,898 - clone.py[line:76] - INFO: Request The 1 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 19:51:59,529 - clone.py[line:91] - INFO: Job run end!
+2022-08-05 20:00:48,798 - clone.py[line:68] - INFO: Job run end!
+2022-08-05 20:01:42,510 - clone.py[line:53] - INFO: Request The 1 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 20:01:45,622 - clone.py[line:68] - INFO: Job 27 run end!
+2022-08-05 20:03:48,755 - clone.py[line:53] - INFO: Request The 1 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 20:04:10,178 - clone.py[line:53] - INFO: Request The 2 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 20:04:31,573 - clone.py[line:53] - INFO: Request The 3 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 20:04:31,574 - clone.py[line:68] - INFO: Job 29 run end with status -1.
+2022-08-05 20:09:56,211 - clone.py[line:68] - INFO: Job 31 run end with status 2.
+2022-08-05 20:11:08,681 - clone.py[line:51] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-05 20:11:14,516 - clone.py[line:68] - INFO: Job 33 Run End With Status 2.
+2022-08-05 20:12:41,033 - clone.py[line:68] - INFO: Job 34 Run End With Status 2.

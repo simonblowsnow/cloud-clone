@@ -1,0 +1,8 @@
+2022-08-03 18:25:41,692 - clone.py[line:58] - INFO: Request The 2 time: https://github.com/microsoft/monaco-editor.git
+2022-08-03 18:25:41,692 - clone.py[line:58] - INFO: Request The 2 time: https://github.com/microsoft/monaco-editor.git
+2022-08-03 18:26:26,931 - clone.py[line:58] - INFO: Request The 2 time: https://github.com/microsoft/monaco-editor.git
+2022-08-03 18:26:48,305 - clone.py[line:58] - INFO: Request The 3 time: https://github.com/microsoft/monaco-editor.git
+2022-08-03 19:00:37,533 - clone.py[line:61] - INFO: Request The 2 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-03 19:00:58,928 - clone.py[line:61] - INFO: Request The 3 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-03 19:01:30,271 - clone.py[line:61] - INFO: Request The 2 time: https://github.com/rishit-singh/OpenShell.git now
+2022-08-03 19:01:51,651 - clone.py[line:61] - INFO: Request The 3 time: https://github.com/rishit-singh/OpenShell.git now
