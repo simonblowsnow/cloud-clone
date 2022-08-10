@@ -1,0 +1,65 @@
+2022-08-10 16:09:10,006 - clone.py[line:105] - INFO: Job 72 run End with status 2.
+2022-08-10 16:17:26,177 - clone.py[line:105] - INFO: Job 73 run End with status 2.
+2022-08-10 16:24:20,759 - clone.py[line:105] - INFO: Job 74 run End with status 2.
+2022-08-10 16:43:11,822 - clone.py[line:105] - INFO: Job 75 run End with status 2.
+2022-08-10 16:45:58,004 - clone.py[line:105] - INFO: Job 76 run End with status 2.
+2022-08-10 16:49:54,648 - clone.py[line:105] - INFO: Job 77 run End with status 2.
+2022-08-10 16:53:06,764 - clone.py[line:105] - INFO: Job 78 run End with status 2.
+2022-08-10 16:56:23,479 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 16:56:44,868 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 16:56:49,505 - clone.py[line:105] - INFO: Job 79 run End with status 2.
+2022-08-10 17:01:29,240 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:01:50,633 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:02:12,062 - clone.py[line:105] - INFO: Job 80 run End with status -1.
+2022-08-10 17:02:39,157 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:03:00,596 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:03:21,953 - clone.py[line:105] - INFO: Job 81 run End with status -1.
+2022-08-10 17:04:26,268 - clone.py[line:105] - INFO: Job 82 run End with status 2.
+2022-08-10 17:09:23,248 - clone.py[line:105] - INFO: Job 83 run End with status 2.
+2022-08-10 17:11:28,029 - clone.py[line:105] - INFO: Job 84 run End with status 2.
+2022-08-10 17:12:02,091 - clone.py[line:105] - INFO: Job 85 run End with status 2.
+2022-08-10 17:19:08,102 - clone.py[line:105] - INFO: Job 86 run End with status 2.
+2022-08-10 17:25:16,629 - clone.py[line:105] - INFO: Job 87 run End with status 2.
+2022-08-10 17:25:55,700 - clone.py[line:105] - INFO: Job 88 run End with status 2.
+2022-08-10 17:26:42,107 - clone.py[line:105] - INFO: Job 89 run End with status 2.
+2022-08-10 17:27:14,896 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:27:17,168 - clone.py[line:105] - INFO: Job 90 run End with status 2.
+2022-08-10 17:29:14,598 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:29:20,300 - clone.py[line:105] - INFO: Job 91 run End with status 2.
+2022-08-10 17:30:35,089 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:30:39,046 - clone.py[line:105] - INFO: Job 92 run End with status 2.
+2022-08-10 17:32:25,748 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:32:29,632 - clone.py[line:105] - INFO: Job 93 run End with status 2.
+2022-08-10 17:33:54,360 - clone.py[line:105] - INFO: Job 94 run End with status 2.
+2022-08-10 17:35:47,210 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:35:58,563 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:35:58,766 - clone.py[line:105] - INFO: Job 95 run End with status -1.
+2022-08-10 17:36:27,556 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:36:48,986 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:37:10,377 - clone.py[line:105] - INFO: Job 96 run End with status -1.
+2022-08-10 17:37:53,523 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:38:14,978 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-10 17:38:36,394 - clone.py[line:105] - INFO: Job 97 run End with status -1.
+2022-08-10 17:39:50,028 - clone.py[line:105] - INFO: Job 98 run End with status 2.
+2022-08-10 17:40:53,751 - clone.py[line:105] - INFO: Job 99 run End with status 2.
+2022-08-10 17:44:34,986 - clone.py[line:105] - INFO: Job 100 run End with status 2.
+2022-08-10 17:47:22,376 - clone.py[line:105] - INFO: Job 101 run End with status 2.
+2022-08-10 17:47:56,974 - clone.py[line:105] - INFO: Job 102 run End with status 2.
+2022-08-10 17:50:11,492 - clone.py[line:105] - INFO: Job 103 run End with status 2.
+2022-08-10 17:51:34,220 - clone.py[line:105] - INFO: Job 104 run End with status 2.
+2022-08-10 17:54:31,171 - clone.py[line:105] - INFO: Job 105 run End with status 2.
+2022-08-10 17:56:21,838 - clone.py[line:105] - INFO: Job 106 run End with status 2.
+2022-08-10 17:56:47,900 - clone.py[line:105] - INFO: Job 107 run End with status 2.
+2022-08-10 18:04:37,706 - clone.py[line:105] - INFO: Job 108 run End with status 2.
+2022-08-10 18:04:57,509 - clone.py[line:105] - INFO: Job 109 run End with status 2.
+2022-08-10 18:07:35,929 - clone.py[line:105] - INFO: Job 110 run End with status 2.
+2022-08-10 18:08:11,459 - clone.py[line:105] - INFO: Job 111 run End with status 2.
+2022-08-10 18:09:05,495 - clone.py[line:105] - INFO: Job 112 run End with status 2.
+2022-08-10 19:58:14,753 - clone.py[line:105] - INFO: Job 113 run End with status 2.
+2022-08-10 19:58:44,272 - clone.py[line:105] - INFO: Job 114 run End with status 2.
+2022-08-10 20:01:40,709 - clone.py[line:105] - INFO: Job 115 run End with status 2.
+2022-08-10 20:05:30,550 - clone.py[line:105] - INFO: Job 116 run End with status 2.
+2022-08-10 20:06:11,231 - clone.py[line:105] - INFO: Job 117 run End with status 2.
+2022-08-10 20:07:34,111 - clone.py[line:105] - INFO: Job 118 run End with status 2.
+2022-08-10 20:07:58,514 - clone.py[line:105] - INFO: Job 119 run End with status 2.
+2022-08-10 20:09:11,304 - clone.py[line:105] - INFO: Job 120 run End with status 2.

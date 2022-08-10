@@ -1,0 +1,103 @@
+2022-08-08 10:00:51,344 - clone.py[line:83] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:00:51,624 - clone.py[line:83] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:00:51,892 - clone.py[line:111] - INFO: Job 36 run End with status -1.
+2022-08-08 10:01:48,919 - clone.py[line:83] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:01:48,923 - clone.py[line:83] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:01:48,929 - clone.py[line:111] - INFO: Job 38 run End with status None.
+2022-08-08 10:06:10,767 - clone.py[line:83] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:06:10,773 - clone.py[line:83] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:06:10,778 - clone.py[line:115] - INFO: Job 38 run End with status -1.
+2022-08-08 10:08:26,998 - clone.py[line:86] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:08:26,999 - clone.py[line:86] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:08:27,001 - clone.py[line:119] - INFO: Job 40 run End with status -1.
+2022-08-08 10:09:02,045 - clone.py[line:86] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:09:02,046 - clone.py[line:86] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:09:02,047 - clone.py[line:119] - INFO: Job 42 run End with status -1.
+2022-08-08 10:10:02,717 - clone.py[line:86] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:10:02,718 - clone.py[line:86] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:10:02,720 - clone.py[line:119] - INFO: Job 44 run End with status -1.
+2022-08-08 10:29:48,684 - clone.py[line:88] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:29:48,690 - clone.py[line:88] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:29:48,697 - clone.py[line:120] - INFO: Job 46 run End with status -1.
+2022-08-08 10:30:39,414 - clone.py[line:88] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:30:39,415 - clone.py[line:88] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:30:39,417 - clone.py[line:120] - INFO: Job 48 run End with status -1.
+2022-08-08 10:31:06,789 - clone.py[line:88] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:31:06,790 - clone.py[line:88] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:31:06,792 - clone.py[line:120] - INFO: Job 50 run End with status -1.
+2022-08-08 10:31:41,963 - clone.py[line:88] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:31:41,964 - clone.py[line:88] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:31:41,967 - clone.py[line:121] - INFO: Job 52 run End with status -1.
+2022-08-08 10:34:48,211 - clone.py[line:90] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:34:48,318 - clone.py[line:90] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:34:48,424 - clone.py[line:125] - INFO: Job 54 run End with status -1.
+2022-08-08 10:36:13,525 - clone.py[line:90] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:36:13,626 - clone.py[line:90] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 10:36:13,737 - clone.py[line:125] - INFO: Job 56 run End with status -1.
+2022-08-08 11:01:30,225 - clone.py[line:110] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:01:30,342 - clone.py[line:110] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:01:30,462 - clone.py[line:146] - INFO: Job 58 run End with status -1.
+2022-08-08 11:01:52,276 - clone.py[line:110] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:01:52,386 - clone.py[line:110] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:01:52,502 - clone.py[line:146] - INFO: Job 60 run End with status -1.
+2022-08-08 11:02:15,106 - clone.py[line:110] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:02:15,219 - clone.py[line:110] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:02:15,333 - clone.py[line:146] - INFO: Job 62 run End with status -1.
+2022-08-08 11:02:20,309 - clone.py[line:110] - INFO: The 2th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:02:20,427 - clone.py[line:110] - INFO: The 3th time Request: http://localhost:82/json/CN-Reanalysis-daily-2013010100.csv now
+2022-08-08 11:02:20,544 - clone.py[line:146] - INFO: Job 64 run End with status -1.
+2022-08-08 11:07:21,204 - clone.py[line:109] - INFO: Job 66 run End with status 2.
+2022-08-08 11:09:05,395 - clone.py[line:79] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:09:07,517 - clone.py[line:79] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:09:09,561 - clone.py[line:109] - INFO: Job 68 run End with status -1.
+2022-08-08 11:09:42,862 - clone.py[line:79] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:09:44,901 - clone.py[line:79] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:09:46,945 - clone.py[line:110] - INFO: Job 70 run End with status -1.
+2022-08-08 11:10:29,939 - clone.py[line:81] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:10:31,976 - clone.py[line:81] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:10:34,016 - clone.py[line:112] - INFO: Job 72 run End with status -1.
+2022-08-08 11:11:10,424 - clone.py[line:81] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:12,463 - clone.py[line:81] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:14,539 - clone.py[line:112] - INFO: Job 74 run End with status -1.
+2022-08-08 11:11:31,201 - clone.py[line:81] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:33,242 - clone.py[line:81] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:35,280 - clone.py[line:112] - INFO: Job 76 run End with status -1.
+2022-08-08 11:11:50,590 - clone.py[line:81] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:52,626 - clone.py[line:81] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:11:54,664 - clone.py[line:112] - INFO: Job 78 run End with status -1.
+2022-08-08 11:14:06,130 - clone.py[line:110] - INFO: Job 80 run End with status 2.
+2022-08-08 11:14:26,701 - clone.py[line:110] - INFO: Job 82 run End with status 2.
+2022-08-08 11:14:41,433 - clone.py[line:110] - INFO: Job 84 run End with status 2.
+2022-08-08 11:21:28,494 - clone.py[line:109] - INFO: Job 2 run End with status 2.
+2022-08-08 11:27:02,647 - clone.py[line:106] - INFO: Job 4 run End with status 2.
+2022-08-08 11:31:02,355 - clone.py[line:103] - INFO: Job 6 run End with status 2.
+2022-08-08 11:31:46,961 - clone.py[line:103] - INFO: Job 7 run End with status 2.
+2022-08-08 11:33:10,858 - clone.py[line:103] - INFO: Job 9 run End with status 2.
+2022-08-08 11:34:05,308 - clone.py[line:103] - INFO: Job 10 run End with status 2.
+2022-08-08 11:38:28,005 - clone.py[line:105] - INFO: Job 12 run End with status 2.
+2022-08-08 11:40:14,245 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:40:14,539 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:40:14,834 - clone.py[line:103] - INFO: Job 14 run End with status -1.
+2022-08-08 11:40:56,019 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:40:56,332 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:40:56,643 - clone.py[line:104] - INFO: Job 16 run End with status -1.
+2022-08-08 11:41:35,306 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:41:35,583 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:41:35,854 - clone.py[line:104] - INFO: Job 17 run End with status -1.
+2022-08-08 11:41:45,095 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:41:45,372 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:41:45,648 - clone.py[line:104] - INFO: Job 18 run End with status -1.
+2022-08-08 11:42:39,508 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:42:39,788 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:42:40,064 - clone.py[line:104] - INFO: Job 20 run End with status -1.
+2022-08-08 11:42:47,597 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:42:47,887 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:42:48,167 - clone.py[line:104] - INFO: Job 21 run End with status -1.
+2022-08-08 11:44:33,114 - clone.py[line:78] - INFO: The 2th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:44:33,390 - clone.py[line:78] - INFO: The 3th time Request: http://localhost:82/Temp/wm-data-net.zip now
+2022-08-08 11:44:33,663 - clone.py[line:104] - INFO: Job 23 run End with status -1.
+2022-08-08 11:44:53,895 - clone.py[line:104] - INFO: Job 24 run End with status 2.
+2022-08-08 11:45:05,614 - clone.py[line:104] - INFO: Job 25 run End with status 2.
+2022-08-08 11:45:14,032 - clone.py[line:104] - INFO: Job 26 run End with status 2.
+2022-08-08 11:51:11,989 - clone.py[line:104] - INFO: Job 28 run End with status 2.
+2022-08-08 11:51:45,498 - clone.py[line:104] - INFO: Job 29 run End with status 2.

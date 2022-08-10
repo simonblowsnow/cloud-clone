@@ -1,0 +1,22 @@
+2022-08-09 15:11:31,310 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 15:11:39,661 - clone.py[line:105] - INFO: Job 54 run End with status 2.
+2022-08-09 15:27:04,323 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 15:27:07,480 - clone.py[line:105] - INFO: Job 56 run End with status 2.
+2022-08-09 15:31:02,188 - clone.py[line:105] - INFO: Job 57 run End with status 2.
+2022-08-09 15:35:17,440 - clone.py[line:105] - INFO: Job 58 run End with status 2.
+2022-08-09 15:36:29,715 - clone.py[line:105] - INFO: Job 59 run End with status 2.
+2022-08-09 15:38:46,399 - clone.py[line:105] - INFO: Job 60 run End with status 2.
+2022-08-09 15:41:58,392 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 15:42:01,168 - clone.py[line:105] - INFO: Job 61 run End with status 2.
+2022-08-09 15:44:12,051 - clone.py[line:105] - INFO: Job 62 run End with status 2.
+2022-08-09 15:48:28,054 - clone.py[line:105] - INFO: Job 63 run End with status 2.
+2022-08-09 15:49:13,507 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 15:49:34,902 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 15:49:56,318 - clone.py[line:105] - INFO: Job 64 run End with status -1.
+2022-08-09 15:53:33,535 - clone.py[line:105] - INFO: Job 65 run End with status 2.
+2022-08-09 15:56:51,066 - clone.py[line:105] - INFO: Job 66 run End with status 2.
+2022-08-09 16:04:21,966 - clone.py[line:105] - INFO: Job 67 run End with status 2.
+2022-08-09 16:06:44,073 - clone.py[line:105] - INFO: Job 68 run End with status 2.
+2022-08-09 16:20:45,452 - clone.py[line:105] - INFO: Job 69 run End with status 2.
+2022-08-09 16:21:58,240 - clone.py[line:105] - INFO: Job 70 run End with status 2.
+2022-08-09 16:22:16,322 - clone.py[line:105] - INFO: Job 71 run End with status 2.

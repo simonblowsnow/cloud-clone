@@ -1,0 +1,22 @@
+2022-08-09 08:50:16,638 - clone.py[line:105] - INFO: Job 40 run End with status 2.
+2022-08-09 08:51:05,135 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:51:06,355 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:51:06,747 - clone.py[line:105] - INFO: Job 41 run End with status -1.
+2022-08-09 08:51:34,938 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:51:50,180 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:51:51,325 - clone.py[line:105] - INFO: Job 42 run End with status -1.
+2022-08-09 08:57:04,076 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:57:05,247 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:57:05,661 - clone.py[line:105] - INFO: Job 43 run End with status -1.
+2022-08-09 08:57:35,954 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:57:57,004 - clone.py[line:79] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 08:58:18,090 - clone.py[line:105] - INFO: Job 44 run End with status -1.
+2022-08-09 09:26:28,164 - clone.py[line:79] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 09:29:00,881 - clone.py[line:80] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 09:29:01,276 - clone.py[line:80] - INFO: The 3th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 09:29:01,675 - clone.py[line:106] - INFO: Job 46 run End with status -1.
+2022-08-09 09:31:33,697 - clone.py[line:80] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 09:38:46,658 - clone.py[line:80] - INFO: The 2th time Request: https://github.com/rishit-singh/OpenShell.git now
+2022-08-09 09:42:41,928 - clone.py[line:106] - INFO: Job 48 run End with status 2.
+2022-08-09 09:46:34,250 - clone.py[line:105] - INFO: Job 50 run End with status 2.
+2022-08-09 09:58:06,859 - clone.py[line:105] - INFO: Job 52 run End with status 2.
