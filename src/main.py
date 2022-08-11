@@ -18,18 +18,17 @@ CORS(app, supports_credentials=True)
 
 '''
 原理：
-    1.接收下载请求
-    2.返回资源ID
-    3.下载资源，3次重试
-    4.记录状态，写入result.csv
-    5.接受状态查询
+    1.接收下载请求，返回资源ID
+    2.启动异步任务，下载资源，4次重试
+    3.记录状态，写入result.csv
+    4.接受状态查询
 
-status: 0 - 未执行，1 - 执行中，2 - 已完成，3 - 已失败
+status: 0 - 未执行，1 - 执行中，2 - 已完成，3 - 已失败， -1 - 已失败
 '''
 
 @app.route('/')
 def index():
-    return 'Hello World'
+    return 'Welcome，This is a cloud resource clone server'
 @app.route('/cloneRes', methods=['GET','POST'])
 def _clone_res():
     R = request.form if request.method=='POST' else request.args
